@@ -5,7 +5,7 @@ spring:
       trace:
         enabled: true
   rabbitmq:
-    host: 47.92.98.17
+    host: 39.106.105.211
     port: 8310
     username: guest
     password: guest
