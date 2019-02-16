@@ -1,0 +1,7 @@
+wechat:
+  appid: wx90f8211e59a6bc63
+  appsecret: e29331a2f5e00c9a122befffadb0faba
+  mch:
+    id: 1511552031
+    key: g3MonUZtNHkdmzicIlibx6iaFqAc56vx
+  token: wechattoken

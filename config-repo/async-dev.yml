@@ -1,0 +1,6 @@
+async:
+  executor:
+    thread:
+      core_pool_size: 50
+      max_pool_size: 100
+      queue_capacity: 100
